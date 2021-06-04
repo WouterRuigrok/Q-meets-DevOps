@@ -16,18 +16,18 @@ When you are logged in go to the source:
 
 https://github.com/Q-meets/Q-meets-DevOps
 
-![create fork](images\create_fork.png)
+![create fork](images/create_fork.png)
 
 Click on the "Fork" button in the right top corner of the site. After confirmation you have a personal copy of the original source. In this way you can create changes to the code without effecting the original.
 #### Create a feature branch
 When you want to start working on a new feature or story it is advised to create a feature branch. This enables working with multiple people on the same product.
 
-![create feature branch](images\create_feature_branch.png)
+![create feature branch](images/create_feature_branch.png)
 
 When on the main page click on the "master" dropdown. Fill in the tekst field "Subtract_Feature". This will be the name of the branch you create. We pick a name here that referes to te feature we are going to implement.
 After filling in the name click on "**Create branch: Subtract_Feature** from 'master'".
 
-![branch created](images\branch_created.png)
+![branch created](images/branch_created.png)
 
 Your feature branch is now created!
 
