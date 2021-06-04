@@ -1,3 +1,4 @@
+[<< Back - Set up your branch](set_up_branch.md)
 ## Adding a new feature
 The next steps will guide you trough the process of adding a new feature to a calculator application.
 #### Adding the subtract service
@@ -44,4 +45,4 @@ if "-" in self.expression:
 ![udate calculation service](images/subtract_added.png)
 After adding the new lines of code add a commit messages and summary and commit the change.
 
-[<< Back - Set up your branch](set_up_branch.md)<span style="float:right;">[Merging the feature using a pull request - Next >>](merging_a_feature.md)</span>
+[Merging the feature using a pull request - Next >>](merging_a_feature.md)

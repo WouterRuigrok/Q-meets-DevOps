@@ -1,15 +1,16 @@
+[<< Back - Intro](Q_meets_DevOps.md)
 ## Set up your branch
 #### Create a GitHub account
 Before you can fork a repository you need an GitHub account. If you allready have an account you can skip this step.
 Create an account can be done on the GitHub website. 
 
-[Create account](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home){:target="_blank"} 
+[Create account](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
 
 Follow the steps indicated on the site. For extra info you can watch the following video:
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/az17G21pmQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Instruction video create GitHub account](https://www.youtube.com/embed/az17G21pmQs)
 
 #### Create a fork from the source
 When you are logged in go to the source:
@@ -31,4 +32,4 @@ After filling in the name click on "**Create branch: Subtract_Feature** from 'ma
 
 Your feature branch is now created!
 
-[<< Back - Intro](Q_meets_DevOps.md) <span style="float:right;">[Adding a new feature - Next >>](adding_a_feature.md)</span>
+[Adding a new feature - Next >>](adding_a_feature.md)

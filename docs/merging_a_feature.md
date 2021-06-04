@@ -1,3 +1,4 @@
+[<< Back - Adding a new feature](adding_a_feature.md)
 ## Merging the feature using a pull request
 The steps so far where to create a code change which we can use for creating a pull request. The following steps will guide you in creating this request and accepting one to merge te code change.
 #### Setting up a pull request
@@ -29,4 +30,4 @@ When merging the pull request you can add an optional comment.
 
 Your new feature is now part of the main branch and integrated into the product. **Congratulations!**
 
-[<< Back - Adding a new feature](adding_a_feature.md)<span style="float:right;">[Group assignment - Next >>](group_assignment.md)</span>
+[Group assignment - Next >>](group_assignment.md)

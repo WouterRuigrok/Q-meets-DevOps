@@ -9,4 +9,4 @@ After the pull request exercise we have some questions for you as a group.
 
 [Group assignment](group_assignment.md)
 
-<span style="float:right;">[Set up your branch - Next >>](set_up_branch.md)</span>
+[Set up your branch - Next >>](set_up_branch.md)
